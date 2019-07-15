@@ -11,3 +11,6 @@ One good example of the DRY principle is the helper class in enterprise librarie
 
 https://dzone.com/articles/software-design-principles-dry-and-kiss
 
+2.SOLID Principles: Explanation and examples
+===
+https://itnext.io/solid-principles-explanation-and-examples-715b975dcad4
